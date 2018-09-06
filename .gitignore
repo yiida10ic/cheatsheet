@@ -105,3 +105,10 @@ venv.bak/
 
 # logdir
 logdir*/
+logs/
+
+# models
+models/
+
+# tensorflow directory
+tensorflow/data/
